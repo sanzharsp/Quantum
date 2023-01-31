@@ -1,0 +1,14 @@
+
+.login-container {
+	display: block;
+	position: relative;
+	z-index: 0;
+	margin: 5rem auto 0;
+  padding: 2rem 2rem 0 2rem;
+	width: 100%;
+	max-width: 625px;
+	min-height: 680px;
+
+
+}
+
